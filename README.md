@@ -10,5 +10,5 @@ Tanvi Deshpande,
 Prisha Gupta,
 Beta Gurdi,
 Sahaj Biyani,
-Siddarth Balaka,
+Siddarth Balaka
 </p>
