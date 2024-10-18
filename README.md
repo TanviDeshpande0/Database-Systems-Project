@@ -4,11 +4,11 @@
 </p>
 
 <h2>Participants</h2>
-<p> Syed Naqvi
-Angeline Pereira
-Tanvi Deshpande
-Prisha Gupta
-Beta Gurdi
-Sahaj Biyani
-Siddarth Balaka
+<p> Syed Naqvi,
+Angeline Pereira,
+Tanvi Deshpande,
+Prisha Gupta,
+Beta Gurdi,
+Sahaj Biyani,
+Siddarth Balaka,
 </p>
