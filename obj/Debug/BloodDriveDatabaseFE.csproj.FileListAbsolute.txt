@@ -1,0 +1,10 @@
+C:\Users\Betag\BloodDrive FrontEnd\BloodDriveDatabaseFE\bin\Debug\BloodDriveDatabaseFE.exe.config
+C:\Users\Betag\BloodDrive FrontEnd\BloodDriveDatabaseFE\bin\Debug\BloodDriveDatabaseFE.exe
+C:\Users\Betag\BloodDrive FrontEnd\BloodDriveDatabaseFE\bin\Debug\BloodDriveDatabaseFE.pdb
+C:\Users\Betag\BloodDrive FrontEnd\BloodDriveDatabaseFE\obj\Debug\BloodDriveDatabaseFE.csproj.AssemblyReference.cache
+C:\Users\Betag\BloodDrive FrontEnd\BloodDriveDatabaseFE\obj\Debug\BloodDriveDatabaseFE.Form1.resources
+C:\Users\Betag\BloodDrive FrontEnd\BloodDriveDatabaseFE\obj\Debug\BloodDriveDatabaseFE.Properties.Resources.resources
+C:\Users\Betag\BloodDrive FrontEnd\BloodDriveDatabaseFE\obj\Debug\BloodDriveDatabaseFE.csproj.GenerateResource.cache
+C:\Users\Betag\BloodDrive FrontEnd\BloodDriveDatabaseFE\obj\Debug\BloodDriveDatabaseFE.csproj.CoreCompileInputs.cache
+C:\Users\Betag\BloodDrive FrontEnd\BloodDriveDatabaseFE\obj\Debug\BloodDriveDatabaseFE.exe
+C:\Users\Betag\BloodDrive FrontEnd\BloodDriveDatabaseFE\obj\Debug\BloodDriveDatabaseFE.pdb
